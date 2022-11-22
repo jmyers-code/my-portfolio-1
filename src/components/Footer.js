@@ -1,5 +1,4 @@
 import React from "react";
-// import { Link } from "react-router-dom";
 import "../style/Footer.css";
 import {
   FaHome,
@@ -37,7 +36,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
-              myerseltonjohn@gmail.com / ltnmyers@protonmail.com
+              myerseltonjohn@gmail.com
             </h4>
           </div>
         </div>
